@@ -1,6 +1,6 @@
 # ✈️ Capital Boarding Pass — International Cost of Capital
 
-**▶️ Live app:** _add the Streamlit link here after deploying_
+**▶️ Live app:** https://wacc-app-app-m4n2nnmcp2i3vzxbuunkjj.streamlit.app/
 
 A Streamlit app that answers: *"What return must this project earn — in U.S. dollars and in the local currency of the country where it happens?"* It compares the **cost of equity, cost of debt and WACC** in USD and in the selected country's currency, side by side, with plain-English explanations. Built for an MBA International Finance assignment.
 
