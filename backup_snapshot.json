@@ -1,0 +1,1901 @@
+{
+ "created": "2026-11-16",
+ "betas": {
+  "table": [
+   {
+    "industry": "Advertising",
+    "firms": 52,
+    "beta": 1.210506967409714,
+    "de_ratio": 0.4020006635676013,
+    "beta_u": 0.930085673859911
+   },
+   {
+    "industry": "Aerospace/Defense",
+    "firms": 79,
+    "beta": 0.945491480030761,
+    "de_ratio": 0.1556259774178424,
+    "beta_u": 0.846668742124111
+   },
+   {
+    "industry": "Air Transport",
+    "firms": 23,
+    "beta": 1.185465100406711,
+    "de_ratio": 0.91170567766528,
+    "beta_u": 0.7040501862693873
+   },
+   {
+    "industry": "Apparel",
+    "firms": 35,
+    "beta": 0.9358744642979875,
+    "de_ratio": 0.31292274379874546,
+    "beta_u": 0.7579820882045375
+   },
+   {
+    "industry": "Auto & Truck",
+    "firms": 33,
+    "beta": 1.4564933048347815,
+    "de_ratio": 0.19695879853744616,
+    "beta_u": 1.2690329072913427
+   },
+   {
+    "industry": "Auto Parts",
+    "firms": 35,
+    "beta": 1.3394463651948414,
+    "de_ratio": 0.4146400386187307,
+    "beta_u": 1.0217137832780625
+   },
+   {
+    "industry": "Bank (Money Center)",
+    "firms": 15,
+    "beta": 0.7610461819725333,
+    "de_ratio": 1.6418966357638234,
+    "beta_u": 0.3410587595479105
+   },
+   {
+    "industry": "Banks (Regional)",
+    "firms": 568,
+    "beta": 0.3984765556409175,
+    "de_ratio": 0.5210229274429405,
+    "beta_u": 0.2865156418030888
+   },
+   {
+    "industry": "Beverage (Alcoholic)",
+    "firms": 14,
+    "beta": 0.8124756277132766,
+    "de_ratio": 0.4333840741223201,
+    "beta_u": 0.6131715419678557
+   },
+   {
+    "industry": "Beverage (Soft)",
+    "firms": 27,
+    "beta": 0.6414687070147179,
+    "de_ratio": 0.20587118525522147,
+    "beta_u": 0.5556711918551647
+   },
+   {
+    "industry": "Broadcasting",
+    "firms": 24,
+    "beta": 0.47075204848634544,
+    "de_ratio": 0.8585429035988935,
+    "beta_u": 0.28636169661672445
+   },
+   {
+    "industry": "Brokerage & Investment Banking",
+    "firms": 32,
+    "beta": 1.171457071047836,
+    "de_ratio": 1.3557362534403625,
+    "beta_u": 0.5808487698048416
+   },
+   {
+    "industry": "Building Materials",
+    "firms": 41,
+    "beta": 1.1115321733442423,
+    "de_ratio": 0.25998303924525584,
+    "beta_u": 0.9301623477287291
+   },
+   {
+    "industry": "Business & Consumer Services",
+    "firms": 155,
+    "beta": 0.8879785335242745,
+    "de_ratio": 0.19716100170472986,
+    "beta_u": 0.7735875598670026
+   },
+   {
+    "industry": "Cable TV",
+    "firms": 9,
+    "beta": 0.7407444081777597,
+    "de_ratio": 1.469394514839746,
+    "beta_u": 0.3523921209643926
+   },
+   {
+    "industry": "Chemical (Basic)",
+    "firms": 29,
+    "beta": 1.0122471500989898,
+    "de_ratio": 0.9935397565078776,
+    "beta_u": 0.5800328658623819
+   },
+   {
+    "industry": "Chemical (Diversified)",
+    "firms": 4,
+    "beta": 0.8507028562562596,
+    "de_ratio": 1.7610998877970157,
+    "beta_u": 0.36655193179254153
+   },
+   {
+    "industry": "Chemical (Specialty)",
+    "firms": 59,
+    "beta": 0.9697828817775749,
+    "de_ratio": 0.29882962373710314,
+    "beta_u": 0.7922271711710575
+   },
+   {
+    "industry": "Coal & Related Energy",
+    "firms": 16,
+    "beta": 1.0709931914897641,
+    "de_ratio": 0.07142984737214478,
+    "beta_u": 1.0165349872490315
+   },
+   {
+    "industry": "Computer Services",
+    "firms": 64,
+    "beta": 1.0878559034733686,
+    "de_ratio": 0.25100122596094754,
+    "beta_u": 0.9155102559970569
+   },
+   {
+    "industry": "Computers/Peripherals",
+    "firms": 36,
+    "beta": 1.3503292085851684,
+    "de_ratio": 0.04624738158842277,
+    "beta_u": 1.3050624188250832
+   },
+   {
+    "industry": "Construction Supplies",
+    "firms": 40,
+    "beta": 1.1503560568511637,
+    "de_ratio": 0.17621949339337503,
+    "beta_u": 1.0160678372067562
+   },
+   {
+    "industry": "Diversified",
+    "firms": 20,
+    "beta": 0.8809551761105191,
+    "de_ratio": 0.15552702199112797,
+    "beta_u": 0.7889302024061987
+   },
+   {
+    "industry": "Drugs (Biotechnology)",
+    "firms": 496,
+    "beta": 1.1352650325488571,
+    "de_ratio": 0.13039813617119383,
+    "beta_u": 1.034128692045902
+   },
+   {
+    "industry": "Drugs (Pharmaceutical)",
+    "firms": 228,
+    "beta": 0.9828330980612211,
+    "de_ratio": 0.14537075884184583,
+    "beta_u": 0.8862112018778732
+   },
+   {
+    "industry": "Education",
+    "firms": 32,
+    "beta": 0.7809055888612572,
+    "de_ratio": 0.24378635749927063,
+    "beta_u": 0.6601955817730791
+   },
+   {
+    "industry": "Electrical Equipment",
+    "firms": 112,
+    "beta": 1.2511238546074688,
+    "de_ratio": 0.12003228885644493,
+    "beta_u": 1.1477945494288007
+   },
+   {
+    "industry": "Electronics (Consumer & Office)",
+    "firms": 8,
+    "beta": 0.8659780184815811,
+    "de_ratio": 0.058043138538441966,
+    "beta_u": 0.8298525821858579
+   },
+   {
+    "industry": "Electronics (General)",
+    "firms": 114,
+    "beta": 0.9714771307987942,
+    "de_ratio": 0.1101176648064408,
+    "beta_u": 0.8973653021365886
+   },
+   {
+    "industry": "Engineering/Construction",
+    "firms": 48,
+    "beta": 1.2099722611351151,
+    "de_ratio": 0.1401147535589371,
+    "beta_u": 1.094912241925567
+   },
+   {
+    "industry": "Entertainment",
+    "firms": 92,
+    "beta": 0.8251696372652437,
+    "de_ratio": 0.15913861576824234,
+    "beta_u": 0.7371838269272858
+   },
+   {
+    "industry": "Environmental & Waste Services",
+    "firms": 53,
+    "beta": 0.9454812982377585,
+    "de_ratio": 0.2144746613305266,
+    "beta_u": 0.814469065497658
+   },
+   {
+    "industry": "Farming/Agriculture",
+    "firms": 35,
+    "beta": 1.1291737409456368,
+    "de_ratio": 0.5184849801548149,
+    "beta_u": 0.8130198178522071
+   },
+   {
+    "industry": "Financial Svcs. (Non-bank & Insurance)",
+    "firms": 176,
+    "beta": 0.9697132427444908,
+    "de_ratio": 2.721299675975284,
+    "beta_u": 0.3188823716863237
+   },
+   {
+    "industry": "Food Processing",
+    "firms": 78,
+    "beta": 0.6074530378003583,
+    "de_ratio": 0.43733857874231813,
+    "beta_u": 0.45741810112318915
+   },
+   {
+    "industry": "Food Wholesalers",
+    "firms": 13,
+    "beta": 0.866641638658665,
+    "de_ratio": 0.4696855126722596,
+    "beta_u": 0.6408819228030607
+   },
+   {
+    "industry": "Furn/Home Furnishings",
+    "firms": 27,
+    "beta": 0.8231584740017082,
+    "de_ratio": 0.42333374568083953,
+    "beta_u": 0.6247880689027374
+   },
+   {
+    "industry": "Green & Renewable Energy",
+    "firms": 15,
+    "beta": 0.8563295187054536,
+    "de_ratio": 1.1310960720897125,
+    "beta_u": 0.46330103394106914
+   },
+   {
+    "industry": "Healthcare Products",
+    "firms": 204,
+    "beta": 0.9085611350704943,
+    "de_ratio": 0.12785158403919683,
+    "beta_u": 0.829063339182968
+   },
+   {
+    "industry": "Healthcare Support Services",
+    "firms": 104,
+    "beta": 0.8719538873399333,
+    "de_ratio": 0.354253188687874,
+    "beta_u": 0.6889158973179456
+   },
+   {
+    "industry": "Heathcare Information and Technology",
+    "firms": 115,
+    "beta": 1.1083338991481437,
+    "de_ratio": 0.1574134360720486,
+    "beta_u": 0.9913008450033202
+   },
+   {
+    "industry": "Homebuilding",
+    "firms": 30,
+    "beta": 0.9106178132748846,
+    "de_ratio": 0.21344150553857202,
+    "beta_u": 0.7849604569802948
+   },
+   {
+    "industry": "Hospitals/Healthcare Facilities",
+    "firms": 31,
+    "beta": 0.7996783314027625,
+    "de_ratio": 0.5992038400269105,
+    "beta_u": 0.5517295035260499
+   },
+   {
+    "industry": "Hotel/Gaming",
+    "firms": 63,
+    "beta": 1.0803675683074194,
+    "de_ratio": 0.39750202770666376,
+    "beta_u": 0.8322513645728964
+   },
+   {
+    "industry": "Household Products",
+    "firms": 110,
+    "beta": 0.8155158251324154,
+    "de_ratio": 0.18147628375519134,
+    "beta_u": 0.7178159032286779
+   },
+   {
+    "industry": "Information Services",
+    "firms": 15,
+    "beta": 0.9205673234850804,
+    "de_ratio": 0.3316984905170498,
+    "beta_u": 0.7371769598623608
+   },
+   {
+    "industry": "Insurance (General)",
+    "firms": 21,
+    "beta": 0.6719750422408106,
+    "de_ratio": 0.2562761358769038,
+    "beta_u": 0.5636395230036526
+   },
+   {
+    "industry": "Insurance (Life)",
+    "firms": 20,
+    "beta": 0.6444930925180267,
+    "de_ratio": 0.6783987776748907,
+    "beta_u": 0.4271563388858468
+   },
+   {
+    "industry": "Insurance (Prop/Cas.)",
+    "firms": 57,
+    "beta": 0.4841100151289049,
+    "de_ratio": 0.1482928711512957,
+    "beta_u": 0.43565645519640217
+   },
+   {
+    "industry": "Investments & Asset Management",
+    "firms": 283,
+    "beta": 0.6595817512663942,
+    "de_ratio": 0.3268818496772947,
+    "beta_u": 0.5297158729912839
+   },
+   {
+    "industry": "Machinery",
+    "firms": 105,
+    "beta": 0.9636207903494385,
+    "de_ratio": 0.14692301552763604,
+    "beta_u": 0.8679764970807725
+   },
+   {
+    "industry": "Metals & Mining",
+    "firms": 73,
+    "beta": 1.0430314762308461,
+    "de_ratio": 0.10984521282049067,
+    "beta_u": 0.963642813760502
+   },
+   {
+    "industry": "Office Equipment & Services",
+    "firms": 14,
+    "beta": 1.334375038621748,
+    "de_ratio": 0.4810247634925184,
+    "beta_u": 0.980603950937201
+   },
+   {
+    "industry": "Oil/Gas (Integrated)",
+    "firms": 4,
+    "beta": 0.2993819796439979,
+    "de_ratio": 0.13845002805508974,
+    "beta_u": 0.2712192455295165
+   },
+   {
+    "industry": "Oil/Gas (Production and Exploration)",
+    "firms": 142,
+    "beta": 0.72140595546977,
+    "de_ratio": 0.37587625587778695,
+    "beta_u": 0.562759894026207
+   },
+   {
+    "industry": "Oil/Gas Distribution",
+    "firms": 23,
+    "beta": 0.6692224517144899,
+    "de_ratio": 0.5852713715207659,
+    "beta_u": 0.4650757918129057
+   },
+   {
+    "industry": "Oilfield Svcs/Equip.",
+    "firms": 97,
+    "beta": 0.9512418716285248,
+    "de_ratio": 0.37360623860545034,
+    "beta_u": 0.7430388962534321
+   },
+   {
+    "industry": "Packaging & Container",
+    "firms": 19,
+    "beta": 1.0219297750432532,
+    "de_ratio": 0.55109591650755,
+    "beta_u": 0.7230693503118022
+   },
+   {
+    "industry": "Paper/Forest Products",
+    "firms": 6,
+    "beta": 0.9579784309693652,
+    "de_ratio": 0.43688176160689357,
+    "beta_u": 0.7215533176034462
+   },
+   {
+    "industry": "Power",
+    "firms": 46,
+    "beta": 0.4824326713170223,
+    "de_ratio": 0.7414865026995126,
+    "beta_u": 0.31002381536217716
+   },
+   {
+    "industry": "Precious Metals",
+    "firms": 56,
+    "beta": 0.8365606512291942,
+    "de_ratio": 0.07281104300881082,
+    "beta_u": 0.7932430128835662
+   },
+   {
+    "industry": "Publishing & Newspapers",
+    "firms": 19,
+    "beta": 0.563007176601541,
+    "de_ratio": 0.2393987480231246,
+    "beta_u": 0.47730712965508676
+   },
+   {
+    "industry": "R.E.I.T.",
+    "firms": 190,
+    "beta": 0.6417984635762964,
+    "de_ratio": 0.844629934379348,
+    "beta_u": 0.39290436962561487
+   },
+   {
+    "industry": "Real Estate (Development)",
+    "firms": 14,
+    "beta": 0.8435660615974878,
+    "de_ratio": 1.0182937484544488,
+    "beta_u": 0.4782878873556669
+   },
+   {
+    "industry": "Real Estate (General/Diversified)",
+    "firms": 12,
+    "beta": 0.8099864769457396,
+    "de_ratio": 0.5356019016772732,
+    "beta_u": 0.57785949402086
+   },
+   {
+    "industry": "Real Estate (Operations & Services)",
+    "firms": 54,
+    "beta": 0.9654974066610451,
+    "de_ratio": 0.24642281273824773,
+    "beta_u": 0.8148915126864962
+   },
+   {
+    "industry": "Recreation",
+    "firms": 49,
+    "beta": 1.0234727002249695,
+    "de_ratio": 0.6299053181462322,
+    "beta_u": 0.6950913817523879
+   },
+   {
+    "industry": "Reinsurance",
+    "firms": 1,
+    "beta": 0.5813323223955235,
+    "de_ratio": 0.4346722815513458,
+    "beta_u": 0.43840910722706555
+   },
+   {
+    "industry": "Restaurant/Dining",
+    "firms": 64,
+    "beta": 0.9240873147803257,
+    "de_ratio": 0.2721981524363927,
+    "beta_u": 0.767419655502052
+   },
+   {
+    "industry": "Retail (Automotive)",
+    "firms": 34,
+    "beta": 0.9360151956832995,
+    "de_ratio": 0.45355394519631387,
+    "beta_u": 0.6984325625385885
+   },
+   {
+    "industry": "Retail (Building Supply)",
+    "firms": 14,
+    "beta": 1.5353094340291733,
+    "de_ratio": 0.2328921812948963,
+    "beta_u": 1.3070143643127536
+   },
+   {
+    "industry": "Retail (Distributors)",
+    "firms": 62,
+    "beta": 0.9484338145727029,
+    "de_ratio": 0.2823636659199003,
+    "beta_u": 0.7826829040437357
+   },
+   {
+    "industry": "Retail (General)",
+    "firms": 23,
+    "beta": 0.8052405395912856,
+    "de_ratio": 0.07943684178442863,
+    "beta_u": 0.7599637023048608
+   },
+   {
+    "industry": "Retail (Grocery and Food)",
+    "firms": 15,
+    "beta": 1.1183037944931133,
+    "de_ratio": 0.5195017227110472,
+    "beta_u": 0.804751465127235
+   },
+   {
+    "industry": "Retail (REITs)",
+    "firms": 26,
+    "beta": 0.620739021744814,
+    "de_ratio": 0.5641981493610073,
+    "beta_u": 0.4361730155949174
+   },
+   {
+    "industry": "Retail (Special Lines)",
+    "firms": 94,
+    "beta": 1.0893996802924664,
+    "de_ratio": 0.19760978860946327,
+    "beta_u": 0.9487830646597303
+   },
+   {
+    "industry": "Rubber& Tires",
+    "firms": 3,
+    "beta": 0.5294301574135339,
+    "de_ratio": 3.5847235984078427,
+    "beta_u": 0.14353369356004206
+   },
+   {
+    "industry": "Semiconductor",
+    "firms": 66,
+    "beta": 1.5181994029054893,
+    "de_ratio": 0.02591104732744511,
+    "beta_u": 1.48925822268736
+   },
+   {
+    "industry": "Semiconductor Equip",
+    "firms": 31,
+    "beta": 1.3972234247394333,
+    "de_ratio": 0.04861265405817292,
+    "beta_u": 1.3480733569303134
+   },
+   {
+    "industry": "Shipbuilding & Marine",
+    "firms": 8,
+    "beta": 0.7529325380371511,
+    "de_ratio": 0.22550196647883228,
+    "beta_u": 0.644012905556584
+   },
+   {
+    "industry": "Shoe",
+    "firms": 11,
+    "beta": 1.0173183278612625,
+    "de_ratio": 0.11944728476926639,
+    "beta_u": 0.9336746513867349
+   },
+   {
+    "industry": "Software (Entertainment)",
+    "firms": 77,
+    "beta": 1.028311248084757,
+    "de_ratio": 0.02044609811708157,
+    "beta_u": 1.0127806880948524
+   },
+   {
+    "industry": "Software (Internet)",
+    "firms": 29,
+    "beta": 1.6886761161660595,
+    "de_ratio": 0.12298911343132386,
+    "beta_u": 1.5460643073174678
+   },
+   {
+    "industry": "Software (System & Application)",
+    "firms": 309,
+    "beta": 1.276648178078175,
+    "de_ratio": 0.05577131922321719,
+    "beta_u": 1.225391886520662
+   },
+   {
+    "industry": "Steel",
+    "firms": 19,
+    "beta": 1.062846247426205,
+    "de_ratio": 0.23512925389922143,
+    "beta_u": 0.9035142702396447
+   },
+   {
+    "industry": "Telecom (Wireless)",
+    "firms": 12,
+    "beta": 0.5381352736640138,
+    "de_ratio": 0.519466977505286,
+    "beta_u": 0.3872590553991877
+   },
+   {
+    "industry": "Telecom. Equipment",
+    "firms": 57,
+    "beta": 0.9232195753877382,
+    "de_ratio": 0.09222748494322085,
+    "beta_u": 0.8634913488563035
+   },
+   {
+    "industry": "Telecom. Services",
+    "firms": 39,
+    "beta": 0.6287201518745624,
+    "de_ratio": 0.9606320738181406,
+    "beta_u": 0.3654342533759909
+   },
+   {
+    "industry": "Tobacco",
+    "firms": 10,
+    "beta": 0.794314579701523,
+    "de_ratio": 0.22968502777837752,
+    "beta_u": 0.6775903166712723
+   },
+   {
+    "industry": "Transportation",
+    "firms": 19,
+    "beta": 0.8599219267913129,
+    "de_ratio": 0.3644955938376248,
+    "beta_u": 0.67531101084817
+   },
+   {
+    "industry": "Transportation (Railroads)",
+    "firms": 4,
+    "beta": 0.9751457485154854,
+    "de_ratio": 0.2779156347027222,
+    "beta_u": 0.8069481235657714
+   },
+   {
+    "industry": "Trucking",
+    "firms": 26,
+    "beta": 1.0113489285521289,
+    "de_ratio": 0.25231648451786204,
+    "beta_u": 0.8504180575613394
+   },
+   {
+    "industry": "Utility (General)",
+    "firms": 14,
+    "beta": 0.2394349278899265,
+    "de_ratio": 0.8148428973368238,
+    "beta_u": 0.14861284002770483
+   },
+   {
+    "industry": "Utility (Water)",
+    "firms": 14,
+    "beta": 0.4126827948416138,
+    "de_ratio": 0.6235944507219604,
+    "beta_u": 0.281177328534438
+   },
+   {
+    "industry": "Total Market",
+    "firms": 5994,
+    "beta": 0.9121109366553466,
+    "de_ratio": 0.3517124831873864,
+    "beta_u": 0.7217298803492256
+   },
+   {
+    "industry": "Total Market (without financials)",
+    "firms": 4822,
+    "beta": 0.9912959719564087,
+    "de_ratio": 0.17287966628456633,
+    "beta_u": 0.8775172986449091
+   }
+  ],
+  "as_of": "2026-01-05"
+ },
+ "spread": {
+  "value": 0.0111,
+  "as_of": "January 2026"
+ },
+ "tax": {
+  "table": [
+   {
+    "iso3": "COL",
+    "country": "Colombia",
+    "rate": 0.35,
+    "year": 2025
+   },
+   {
+    "iso3": "ISR",
+    "country": "Israel",
+    "rate": 0.23,
+    "year": 2025
+   },
+   {
+    "iso3": "TUR",
+    "country": "T\u00fcrkiye",
+    "rate": 0.25,
+    "year": 2025
+   },
+   {
+    "iso3": "QAT",
+    "country": "Qatar",
+    "rate": 0.1,
+    "year": 2026
+   },
+   {
+    "iso3": "PRY",
+    "country": "Paraguay",
+    "rate": 0.1,
+    "year": 2026
+   },
+   {
+    "iso3": "BMU",
+    "country": "Bermuda",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "SGP",
+    "country": "Singapore",
+    "rate": 0.17,
+    "year": 2026
+   },
+   {
+    "iso3": "AND",
+    "country": "Andorra",
+    "rate": 0.1,
+    "year": 2026
+   },
+   {
+    "iso3": "VGB",
+    "country": "British Virgin Islands",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "rate": 0.1,
+    "year": 2026
+   },
+   {
+    "iso3": "ARE",
+    "country": "United Arab Emirates",
+    "rate": 0.09,
+    "year": 2026
+   },
+   {
+    "iso3": "BRA",
+    "country": "Brazil",
+    "rate": 0.34,
+    "year": 2026
+   },
+   {
+    "iso3": "KAZ",
+    "country": "Kazakhstan",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "THA",
+    "country": "Thailand",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "HND",
+    "country": "Honduras",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "ARM",
+    "country": "Armenia",
+    "rate": 0.18,
+    "year": 2026
+   },
+   {
+    "iso3": "MKD",
+    "country": "North Macedonia",
+    "rate": 0.1,
+    "year": 2026
+   },
+   {
+    "iso3": "BLZ",
+    "country": "Belize",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "AZE",
+    "country": "Azerbaijan",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "BRB",
+    "country": "Barbados",
+    "rate": 0.09,
+    "year": 2026
+   },
+   {
+    "iso3": "SAU",
+    "country": "Saudi Arabia",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "JEY",
+    "country": "Jersey",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "CYM",
+    "country": "Cayman Islands",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "JOR",
+    "country": "Jordan",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "TGO",
+    "country": "Togo",
+    "rate": 0.27,
+    "year": 2026
+   },
+   {
+    "iso3": "COK",
+    "country": "Cook Islands",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "KEN",
+    "country": "Kenya",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "UKR",
+    "country": "Ukraine",
+    "rate": 0.18,
+    "year": 2026
+   },
+   {
+    "iso3": "MSR",
+    "country": "Montserrat",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "AUS",
+    "country": "Australia",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "UZB",
+    "country": "Uzbekistan",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "SWE",
+    "country": "Sweden",
+    "rate": 0.20600000000000002,
+    "year": 2026
+   },
+   {
+    "iso3": "CHE",
+    "country": "Switzerland",
+    "rate": 0.19471871,
+    "year": 2026
+   },
+   {
+    "iso3": "GBR",
+    "country": "United Kingdom",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "USA",
+    "country": "United States",
+    "rate": 0.255285,
+    "year": 2026
+   },
+   {
+    "iso3": "ALB",
+    "country": "Albania",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "AGO",
+    "country": "Angola",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "AIA",
+    "country": "Anguilla",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "ATG",
+    "country": "Antigua and Barbuda",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "ARG",
+    "country": "Argentina",
+    "rate": 0.35,
+    "year": 2026
+   },
+   {
+    "iso3": "ABW",
+    "country": "Aruba",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "BHS",
+    "country": "Bahamas",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "BHR",
+    "country": "Bahrain",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "GGY",
+    "country": "Bailiwick of Guernsey",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "BEN",
+    "country": "Benin",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "BWA",
+    "country": "Botswana",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "BRN",
+    "country": "Brunei Darussalam",
+    "rate": 0.185,
+    "year": 2026
+   },
+   {
+    "iso3": "BGR",
+    "country": "Bulgaria",
+    "rate": 0.1,
+    "year": 2026
+   },
+   {
+    "iso3": "BFA",
+    "country": "Burkina Faso",
+    "rate": 0.275,
+    "year": 2026
+   },
+   {
+    "iso3": "CPV",
+    "country": "Cabo Verde",
+    "rate": 0.204,
+    "year": 2026
+   },
+   {
+    "iso3": "CMR",
+    "country": "Cameroon",
+    "rate": 0.33,
+    "year": 2026
+   },
+   {
+    "iso3": "CHN",
+    "country": "China (People\u2019s Republic of)",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "COG",
+    "country": "Congo",
+    "rate": 0.28,
+    "year": 2026
+   },
+   {
+    "iso3": "CIV",
+    "country": "C\u00f4te d\u2019Ivoire",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "HRV",
+    "country": "Croatia",
+    "rate": 0.18,
+    "year": 2026
+   },
+   {
+    "iso3": "CUW",
+    "country": "Cura\u00e7ao",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "ESP",
+    "country": "Spain",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "COD",
+    "country": "Democratic Republic of the Congo",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "SVN",
+    "country": "Slovenia",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "PRT",
+    "country": "Portugal",
+    "rate": 0.295,
+    "year": 2026
+   },
+   {
+    "iso3": "AUT",
+    "country": "Austria",
+    "rate": 0.23,
+    "year": 2026
+   },
+   {
+    "iso3": "BEL",
+    "country": "Belgium",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "CAN",
+    "country": "Canada",
+    "rate": 0.26,
+    "year": 2026
+   },
+   {
+    "iso3": "CHL",
+    "country": "Chile",
+    "rate": 0.27,
+    "year": 2026
+   },
+   {
+    "iso3": "CRI",
+    "country": "Costa Rica",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "CZE",
+    "country": "Czechia",
+    "rate": 0.21,
+    "year": 2026
+   },
+   {
+    "iso3": "DNK",
+    "country": "Denmark",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "EST",
+    "country": "Estonia",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "FIN",
+    "country": "Finland",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "FRA",
+    "country": "France",
+    "rate": 0.3613,
+    "year": 2026
+   },
+   {
+    "iso3": "DEU",
+    "country": "Germany",
+    "rate": 0.30133026,
+    "year": 2026
+   },
+   {
+    "iso3": "GRC",
+    "country": "Greece",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "HUN",
+    "country": "Hungary",
+    "rate": 0.09,
+    "year": 2026
+   },
+   {
+    "iso3": "ISL",
+    "country": "Iceland",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "IRL",
+    "country": "Ireland",
+    "rate": 0.125,
+    "year": 2026
+   },
+   {
+    "iso3": "ITA",
+    "country": "Italy",
+    "rate": 0.2781,
+    "year": 2026
+   },
+   {
+    "iso3": "JPN",
+    "country": "Japan",
+    "rate": 0.2974,
+    "year": 2026
+   },
+   {
+    "iso3": "KOR",
+    "country": "Korea",
+    "rate": 0.275,
+    "year": 2026
+   },
+   {
+    "iso3": "LVA",
+    "country": "Latvia",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "LTU",
+    "country": "Lithuania",
+    "rate": 0.17,
+    "year": 2026
+   },
+   {
+    "iso3": "LUX",
+    "country": "Luxembourg",
+    "rate": 0.23870000000000002,
+    "year": 2026
+   },
+   {
+    "iso3": "MEX",
+    "country": "Mexico",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "NLD",
+    "country": "Netherlands",
+    "rate": 0.258,
+    "year": 2026
+   },
+   {
+    "iso3": "NZL",
+    "country": "New Zealand",
+    "rate": 0.28,
+    "year": 2026
+   },
+   {
+    "iso3": "POL",
+    "country": "Poland",
+    "rate": 0.19,
+    "year": 2026
+   },
+   {
+    "iso3": "SVK",
+    "country": "Slovak Republic",
+    "rate": 0.24,
+    "year": 2026
+   },
+   {
+    "iso3": "DJI",
+    "country": "Djibouti",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "DMA",
+    "country": "Dominica",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "DOM",
+    "country": "Dominican Republic",
+    "rate": 0.27,
+    "year": 2026
+   },
+   {
+    "iso3": "MAR",
+    "country": "Morocco",
+    "rate": 0.35,
+    "year": 2026
+   },
+   {
+    "iso3": "NAM",
+    "country": "Namibia",
+    "rate": 0.32,
+    "year": 2026
+   },
+   {
+    "iso3": "NGA",
+    "country": "Nigeria",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "OMN",
+    "country": "Oman",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "PAK",
+    "country": "Pakistan",
+    "rate": 0.29,
+    "year": 2026
+   },
+   {
+    "iso3": "PAN",
+    "country": "Panama",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "PNG",
+    "country": "Papua New Guinea",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "PER",
+    "country": "Peru",
+    "rate": 0.295,
+    "year": 2026
+   },
+   {
+    "iso3": "PHL",
+    "country": "Philippines",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "ROU",
+    "country": "Romania",
+    "rate": 0.16,
+    "year": 2026
+   },
+   {
+    "iso3": "KNA",
+    "country": "Saint Kitts and Nevis",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "LCA",
+    "country": "Saint Lucia",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "VCT",
+    "country": "Saint Vincent and the Grenadines",
+    "rate": 0.28,
+    "year": 2026
+   },
+   {
+    "iso3": "WSM",
+    "country": "Samoa",
+    "rate": 0.27,
+    "year": 2026
+   },
+   {
+    "iso3": "SMR",
+    "country": "San Marino",
+    "rate": 0.18,
+    "year": 2026
+   },
+   {
+    "iso3": "SEN",
+    "country": "Senegal",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "SRB",
+    "country": "Serbia",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "SYC",
+    "country": "Seychelles",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "SLE",
+    "country": "Sierra Leone",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "ZAF",
+    "country": "South Africa",
+    "rate": 0.27,
+    "year": 2026
+   },
+   {
+    "iso3": "LKA",
+    "country": "Sri Lanka",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "TTO",
+    "country": "Trinidad and Tobago",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "TUN",
+    "country": "Tunisia",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "TCA",
+    "country": "Turks and Caicos Islands",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "URY",
+    "country": "Uruguay",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "MNE",
+    "country": "Montenegro",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "MNG",
+    "country": "Mongolia",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "MCO",
+    "country": "Monaco",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "MDA",
+    "country": "Moldova",
+    "rate": 0.12,
+    "year": 2026
+   },
+   {
+    "iso3": "EGY",
+    "country": "Egypt",
+    "rate": 0.225,
+    "year": 2026
+   },
+   {
+    "iso3": "SWZ",
+    "country": "Eswatini",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "FRO",
+    "country": "Faroe Islands",
+    "rate": 0.18,
+    "year": 2026
+   },
+   {
+    "iso3": "FJI",
+    "country": "Fiji",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "GAB",
+    "country": "Gabon",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "GEO",
+    "country": "Georgia",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "GIB",
+    "country": "Gibraltar",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "GRL",
+    "country": "Greenland",
+    "rate": 0.265,
+    "year": 2026
+   },
+   {
+    "iso3": "GRD",
+    "country": "Grenada",
+    "rate": 0.28,
+    "year": 2026
+   },
+   {
+    "iso3": "GTM",
+    "country": "Guatemala",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "HTI",
+    "country": "Haiti",
+    "rate": 0.3,
+    "year": 2026
+   },
+   {
+    "iso3": "VNM",
+    "country": "Viet Nam",
+    "rate": 0.2,
+    "year": 2026
+   },
+   {
+    "iso3": "NOR",
+    "country": "Norway",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "HKG",
+    "country": "Hong Kong (China)",
+    "rate": 0.165,
+    "year": 2026
+   },
+   {
+    "iso3": "IDN",
+    "country": "Indonesia",
+    "rate": 0.22,
+    "year": 2026
+   },
+   {
+    "iso3": "IMN",
+    "country": "Isle of Man",
+    "rate": 0.0,
+    "year": 2026
+   },
+   {
+    "iso3": "JAM",
+    "country": "Jamaica",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "KWT",
+    "country": "Kuwait",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "LBR",
+    "country": "Liberia",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "LIE",
+    "country": "Liechtenstein",
+    "rate": 0.125,
+    "year": 2026
+   },
+   {
+    "iso3": "MAC",
+    "country": "Macau (China)",
+    "rate": 0.12,
+    "year": 2026
+   },
+   {
+    "iso3": "MYS",
+    "country": "Malaysia",
+    "rate": 0.24,
+    "year": 2026
+   },
+   {
+    "iso3": "MDV",
+    "country": "Maldives",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "MLT",
+    "country": "Malta",
+    "rate": 0.35,
+    "year": 2026
+   },
+   {
+    "iso3": "MRT",
+    "country": "Mauritania",
+    "rate": 0.25,
+    "year": 2026
+   },
+   {
+    "iso3": "MUS",
+    "country": "Mauritius",
+    "rate": 0.15,
+    "year": 2026
+   },
+   {
+    "iso3": "IND",
+    "country": "India",
+    "rate": 0.25170000000000003,
+    "year": 2026
+   },
+   {
+    "iso3": "ZMB",
+    "country": "Zambia",
+    "rate": 0.3,
+    "year": 2026
+   }
+  ],
+  "as_of": "2026"
+ },
+ "yields": {
+  "table": [
+   {
+    "iso3": "AUS",
+    "yield": 0.0512,
+    "previous": 0.0513,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "AUT",
+    "yield": 0.0363,
+    "previous": 0.0361,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "BEL",
+    "yield": 0.043899999999999995,
+    "previous": 0.0435,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "BRA",
+    "yield": 0.1535,
+    "previous": 0.1534,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "BGR",
+    "yield": 0.0363,
+    "previous": 0.0385,
+    "reference": "Feb/25"
+   },
+   {
+    "iso3": "CAN",
+    "yield": 0.0382,
+    "previous": 0.038599999999999995,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "CHL",
+    "yield": 0.0601,
+    "previous": 0.0596,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "CHN",
+    "yield": 0.0163,
+    "previous": 0.016200000000000003,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "COL",
+    "yield": 0.127,
+    "previous": 0.12710000000000002,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "HRV",
+    "yield": 0.0387,
+    "previous": 0.0387,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "CZE",
+    "yield": 0.052300000000000006,
+    "previous": 0.052199999999999996,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "DNK",
+    "yield": 0.0317,
+    "previous": 0.0317,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "FIN",
+    "yield": 0.037599999999999995,
+    "previous": 0.037599999999999995,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "FRA",
+    "yield": 0.0495,
+    "previous": 0.0492,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "DEU",
+    "yield": 0.0338,
+    "previous": 0.0338,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "GRC",
+    "yield": 0.043,
+    "previous": 0.0426,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "HKG",
+    "yield": 0.04,
+    "previous": 0.039900000000000005,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "HUN",
+    "yield": 0.0553,
+    "previous": 0.0552,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "ISL",
+    "yield": 0.0681,
+    "previous": 0.0676,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "IND",
+    "yield": 0.0732,
+    "previous": 0.0731,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "IDN",
+    "yield": 0.0761,
+    "previous": 0.0761,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "IRL",
+    "yield": 0.0352,
+    "previous": 0.0354,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "ISR",
+    "yield": 0.041299999999999996,
+    "previous": 0.0418,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "ITA",
+    "yield": 0.0446,
+    "previous": 0.0444,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "JPN",
+    "yield": 0.028900000000000002,
+    "previous": 0.0286,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "KEN",
+    "yield": 0.125,
+    "previous": 0.125,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "LTU",
+    "yield": 0.0434,
+    "previous": 0.0433,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "MYS",
+    "yield": 0.0387,
+    "previous": 0.038599999999999995,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "MEX",
+    "yield": 0.09300000000000001,
+    "previous": 0.0931,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "NLD",
+    "yield": 0.0348,
+    "previous": 0.0348,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "NZL",
+    "yield": 0.04769999999999999,
+    "previous": 0.0475,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "NGA",
+    "yield": 0.166,
+    "previous": 0.166,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "NOR",
+    "yield": 0.043899999999999995,
+    "previous": 0.0438,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "PAK",
+    "yield": 0.12619999999999998,
+    "previous": 0.126,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "PER",
+    "yield": 0.062400000000000004,
+    "previous": 0.0626,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "PHL",
+    "yield": 0.077,
+    "previous": 0.07769999999999999,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "POL",
+    "yield": 0.0634,
+    "previous": 0.0634,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "PRT",
+    "yield": 0.0384,
+    "previous": 0.0382,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "ROU",
+    "yield": 0.0716,
+    "previous": 0.0712,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "RUS",
+    "yield": 0.1674,
+    "previous": 0.1673,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "SGP",
+    "yield": 0.023399999999999997,
+    "previous": 0.0233,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "SVK",
+    "yield": 0.043,
+    "previous": 0.0431,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "SVN",
+    "yield": 0.0394,
+    "previous": 0.0391,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "ZAF",
+    "yield": 0.0872,
+    "previous": 0.0868,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "KOR",
+    "yield": 0.039900000000000005,
+    "previous": 0.039900000000000005,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "ESP",
+    "yield": 0.0395,
+    "previous": 0.0394,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "SWE",
+    "yield": 0.031,
+    "previous": 0.031,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "CHE",
+    "yield": 0.005699999999999999,
+    "previous": 0.005600000000000001,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "TWN",
+    "yield": 0.0187,
+    "previous": 0.018600000000000002,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "THA",
+    "yield": 0.019799999999999998,
+    "previous": 0.02,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "TUR",
+    "yield": 0.33520000000000005,
+    "previous": 0.3336,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "GBR",
+    "yield": 0.0535,
+    "previous": 0.053399999999999996,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "USA",
+    "yield": 0.051399999999999994,
+    "previous": 0.051500000000000004,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "VNM",
+    "yield": 0.045700000000000005,
+    "previous": 0.045700000000000005,
+    "reference": "Nov/26"
+   },
+   {
+    "iso3": "ZMB",
+    "yield": 0.1474,
+    "previous": 0.1475,
+    "reference": "Nov/26"
+   }
+  ],
+  "as_of": "November 16, 2026",
+  "url": "https://tradingeconomics.com/country-list/government-bond-10y"
+ }
+}
